@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ERegister.CustomerRegistrationManagement.Core.UnitTest": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
