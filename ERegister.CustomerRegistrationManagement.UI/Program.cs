@@ -51,3 +51,6 @@ app.UseCustomExceptionHandler();
 app.MapControllers();
 
 app.Run();
+
+// Make the implicit Program class public so test projects can access it
+public partial class Program { }
