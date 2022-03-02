@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERegister.CustomerRegistrat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERegister.CustomerRegistrationManagement.Core.UnitTest", "ERegister.CustomerRegistrationManagement.Core.UnitTest\ERegister.CustomerRegistrationManagement.Core.UnitTest.csproj", "{2FC0E8BB-A419-4835-9046-9FA4787EC589}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERegister.CustomerRegistrationManagement.UI", "ERegister.CustomerRegistrationManagement.UI\ERegister.CustomerRegistrationManagement.UI.csproj", "{BDD79C89-FAF2-4EED-AF8F-A2A5AF83D91D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ERegister.CustomerRegistrationManagement.UI", "ERegister.CustomerRegistrationManagement.UI\ERegister.CustomerRegistrationManagement.UI.csproj", "{BDD79C89-FAF2-4EED-AF8F-A2A5AF83D91D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERegister.CustmoreManagement.Integration", "ERegister.CustmoreManagement.Integration\ERegister.CustmoreManagement.Integration.csproj", "{11100277-FBD5-42D0-B22C-805D1975FF95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,10 @@ Global
 		{BDD79C89-FAF2-4EED-AF8F-A2A5AF83D91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDD79C89-FAF2-4EED-AF8F-A2A5AF83D91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDD79C89-FAF2-4EED-AF8F-A2A5AF83D91D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11100277-FBD5-42D0-B22C-805D1975FF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11100277-FBD5-42D0-B22C-805D1975FF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11100277-FBD5-42D0-B22C-805D1975FF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11100277-FBD5-42D0-B22C-805D1975FF95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{EAE05064-33B5-46A2-9083-6094DCBDD255} = {5F97127F-1F5C-43FC-99E6-A4541A8B58F1}
 		{2FC0E8BB-A419-4835-9046-9FA4787EC589} = {A1C50A46-B506-4411-BFFE-D492ADA4D273}
 		{BDD79C89-FAF2-4EED-AF8F-A2A5AF83D91D} = {5F97127F-1F5C-43FC-99E6-A4541A8B58F1}
+		{11100277-FBD5-42D0-B22C-805D1975FF95} = {A1C50A46-B506-4411-BFFE-D492ADA4D273}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5B599DEC-B012-4FDE-9D9D-0BB6F6E49F1E}
